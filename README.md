@@ -1,2 +1,2 @@
 # my-demo
-RHIS IS MY FIRST GIT REWPOSITORY
+This is my first Repositarty
