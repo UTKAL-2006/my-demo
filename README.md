@@ -1,2 +1,2 @@
 # my-demo
-This is my first Repositarty
+This is my first Git Repositarty
